@@ -1,5 +1,5 @@
 #! python3
-#PhoneEmailExtractor.py : Finds email addresses on the clipboard.
+#EmailExtractor.py : Finds email addresses on the clipboard.
 
 '''
     your phone and email address extractor will need to do the following:
