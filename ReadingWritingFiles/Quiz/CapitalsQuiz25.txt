@@ -1,0 +1,72 @@
+Name:		Date:
+
+                         Provinces and Capitals Quiz (Form 25)
+
+1. What is the capital of Liaoning?
+	A. Lasa		B. Changchun		C. Jinan		D. Nanjing	
+2. What is the capital of Hainan?
+	A. Haerbing		B. Taibei		C. Haikou		D. Changchun	
+3. What is the capital of Xizang?
+	A. Lasa		B. Taiyuan		C. Hongkong		D. Shijiazhuang	
+4. What is the capital of Shanxi?
+	A. Taiyuan		B. Changchun		C. Xi'an		D. Yinchuan	
+5. What is the capital of Jiangxi?
+	A. Nanchang		B. Changchun		C. Changchun		D. Taiyuan	
+6. What is the capital of Hongkong?
+	A. Hongkong		B. Lanzhou		C. Zhengzhou		D. Taiyuan	
+7. What is the capital of Sichuan?
+	A. Wulumuqi		B. Guiyang		C. Chengdu		D. Changchun	
+8. What is the capital of Fujian?
+	A. Yinchuan		B. Fuzhou		C. Chengdu		D. Changsha	
+9. What is the capital of Hebei?
+	A. Xining		B. Wulumuqi		C. Taiyuan		D. Shijiazhuang	
+10. What is the capital of Qinghai?
+	A. Beijing		B. Aomen		C. Xining		D. Huhehaote	
+11. What is the capital of Aomen?
+	A. Huhehaote		B. Lanzhou		C. Aomen		D. Haikou	
+12. What is the capital of Henan?
+	A. Shanghai		B. Jinan		C. Guiyang		D. Zhengzhou	
+13. What is the capital of Jiangsu?
+	A. Lanzhou		B. Hefei		C. Nanjing		D. Shijiazhuang	
+14. What is the capital of Yunnan?
+	A. Nanning		B. Kunming		C. Chengdu		D. Shanghai	
+15. What is the capital of Zhejiang?
+	A. Hangzhou		B. Zhengzhou		C. Fuzhou		D. Huhehaote	
+16. What is the capital of Guizhou?
+	A. Changsha		B. Guiyang		C. Guangzhou		D. Taiyuan	
+17. What is the capital of Taiwan?
+	A. Lasa		B. Lanzhou		C. Chongqing		D. Taibei	
+18. What is the capital of Chongqing?
+	A. Tianjin		B. Chongqing		C. Shijiazhuang		D. Hongkong	
+19. What is the capital of Guangxi?
+	A. Nanning		B. Fuzhou		C. Wulumuqi		D. Yinchuan	
+20. What is the capital of Xinjiang?
+	A. Changchun		B. Kunming		C. Haerbing		D. Wulumuqi	
+21. What is the capital of Heilongjiang?
+	A. Lanzhou		B. Haerbing		C. Xi'an		D. Wulumuqi	
+22. What is the capital of Beijing?
+	A. Wulumuqi		B. Beijing		C. Aomen		D. Chengdu	
+23. What is the capital of Shaanxi?
+	A. Lasa		B. Changchun		C. Xi'an		D. Taiyuan	
+24. What is the capital of Jilin?
+	A. Beijing		B. Chengdu		C. Xi'an		D. Changchun	
+25. What is the capital of Hubei?
+	A. Wulumuqi		B. Guangzhou		C. Haerbing		D. Wuhan	
+26. What is the capital of Hunan?
+	A. Changsha		B. Aomen		C. Beijing		D. Chengdu	
+27. What is the capital of Tianjin?
+	A. Changsha		B. Tianjin		C. Yinchuan		D. Hangzhou	
+28. What is the capital of Guangdong?
+	A. Haerbing		B. Guangzhou		C. Hangzhou		D. Hongkong	
+29. What is the capital of Gansu?
+	A. Wuhan		B. Changchun		C. Zhengzhou		D. Lanzhou	
+30. What is the capital of Anhui?
+	A. Hefei		B. Nanchang		C. Changsha		D. Aomen	
+31. What is the capital of Neimenggu?
+	A. Zhengzhou		B. Huhehaote		C. Changchun		D. Hangzhou	
+32. What is the capital of Shanghai?
+	A. Taibei		B. Hefei		C. Changsha		D. Shanghai	
+33. What is the capital of Ningxia?
+	A. Beijing		B. Jinan		C. Haerbing		D. Yinchuan	
+34. What is the capital of Shandong?
+	A. Nanchang		B. Jinan		C. Beijing		D. Xi'an	
