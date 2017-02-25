@@ -24,9 +24,11 @@
 '''
 # 1. Shelf Setup
 import shelve, pyperclip, sys
+
 mcbShelf = shelve.open('mcb')
 
 # 2. Save clipboard content with a keyword
+# shelve like a key-value database
 if len(sys.argv) == 3 and sys.argv[1].lower() == 'save':
     mcbShelf[sys.argv[2]] = pyperclip.paste()
 elif len(sys.argv) == 2:

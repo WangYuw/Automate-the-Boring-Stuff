@@ -20,6 +20,10 @@ The small projects in this book are very cool!
 	
 	- **Random Quiz Generator** : Creates quizzes with questions and answers in random order, along with the answer key
 
-	- **Multi-Clipboard** : 
+	- **Multi-Clipboard** : Saves and loads pieces of text to the clipboard.
+
+- Organizing Files:
+
+	- 
 
 
