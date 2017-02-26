@@ -34,7 +34,13 @@ def backupToZip(folder):
     backupZip.close()
     print('Done.')
 
-backupToZip('C:\\Users\\yuwei\\Desktop\\Automate-the-Boring-Stuff')
+#backupToZip('C:\\Users\\yuwei\\Desktop\\Automate-the-Boring-Stuff')
+import sys
+if len(sys.argv) < 2:
+    print("you should input the abstract folder to be compressed.")
+    sys.exit()
+
+backupToZip(sys.argv[1])
 
 '''
     You can walk a directory tree and add files to compressed ZIP archives:
