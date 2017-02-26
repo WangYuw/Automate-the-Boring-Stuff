@@ -24,6 +24,6 @@ The small projects in this book are very cool!
 
 - Organizing Files:
 
-	- 
+	- **Rename Dates** : Renames filenames with American MM-DD-YYYY date format to Chinese YYYY-MM-DD.
 
 
