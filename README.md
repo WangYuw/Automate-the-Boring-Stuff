@@ -27,3 +27,9 @@ The small projects in this book are very cool!
 	- **Rename Dates** : Renames filenames with American MM-DD-YYYY date format to Chinese YYYY-MM-DD.
 
 	- **Backup To Zip** : Copies an entire folder and its contents into a ZIP file whose filename increments.
+
+- Web Scraping
+
+	-  **Map It** : Launch a map in the browser using an address from the command line or clipboard
+
+	- **Search Google**: open 5 Google search results
